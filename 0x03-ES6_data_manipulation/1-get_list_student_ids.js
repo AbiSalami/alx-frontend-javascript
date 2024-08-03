@@ -7,4 +7,4 @@ const getListStudentsIds = (listStudents) => {
   return listStudentIds;
 };
 
-export default getListStudentIds;
+export default getListStudentsIds;
